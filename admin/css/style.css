@@ -1,0 +1,26 @@
+.inputAddProduct{
+
+    width: 50%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    /* float: left; */
+  
+}
+
+
+.labelAddProduct{
+	font-size: 14px;
+	padding: 15px;
+}
+
+td.tabLabel{
+	width: 20%;
+}
+
+.textHeading{
+	font-size: 15px;
+	text-transform: uppercase;
+
+}
+
